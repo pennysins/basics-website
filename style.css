@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url(image/back.gif);
+    background-image: url(../image/back.gif);
     background-size: cover;
     background-position: center;
 
